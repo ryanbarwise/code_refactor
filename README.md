@@ -1,2 +1,1 @@
-# code_refactor
-homework-01
+This code refactor assignment involves an html file as well as the accompanying css file.  I attempted to make the html file and css file more user friendly by taking advantage of semantic html and eliminating unnecessary css rule sets.  I added 'alt' attributes when necessary to aid in accessibility in addition to adding comments to both files.  In addition, I also corrected an issue with nonfunctioning links within the page.    
